@@ -1,8 +1,3 @@
-#This is a zomato langing page clone which we will be creating in upcoming days
+This repo contains source code for creating front end of zomato clone .
 
-New Msg has to be added from Colaborartor B
-
-Zomato-landing-page-DT
-rohan1917
-
-This is a new installation Setup Branch.
+Hope u like it !!
